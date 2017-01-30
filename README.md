@@ -1,5 +1,5 @@
 # Peristaltic-Worm-Simulation
-MATLAB codes for simulating the worm peristaltic motion
+MATLAB codes for simulating the worm peristaltic motion.
 Coded by Yifan Huang
 yxh649@case.edu
 
